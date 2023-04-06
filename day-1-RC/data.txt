@@ -4,3 +4,7 @@ it's Link => https://www.hackerrank.com/challenges/sock-merchant/problem?isFullS
 
 Second Problem :=> Counting Valleys .
 It's link :=> https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
+
+
+Third Problem :=> Strings: Making Anagrams.
+It's link :=> Strings: https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings
