@@ -49,3 +49,18 @@ console.log(isLeapyear(2012));
 console.log(isLeapyear(2013));
 
 
+
+type FirstType = {
+    name : string
+}
+
+type SecondType = {
+    id :number
+}
+
+type TheridType  = FirstType & SecondType;
+
+const myType : TheridType = {
+    name : 'hello' , 
+    id : 120
+}
