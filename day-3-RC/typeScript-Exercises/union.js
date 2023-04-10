@@ -35,3 +35,5 @@ console.log('====================================');
 console.log('====================================');
 console.log(greet(['ahmed', 'mohammed', 'tamer']));
 console.log('====================================');
+var responce = [200, 'good'];
+responce.push('hay');
